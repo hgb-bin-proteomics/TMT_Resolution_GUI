@@ -15,7 +15,7 @@ slightly modified to support European localization and mass spectra recorded in 
 
 ## Acknowledgements
 
-If you are using any version of the Resolution GUI, please cite:
+This tool is based on the Resolution GUI tool originally developed by Dina L. Bai, Tian Zhang _et al._ - if you are using any version of the Resolution GUI, please cite:
 
 - [1] Keele, G.R., Dou, Y., Kodikara, S.P. et al. Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration. _Nat Commun_ **16**, 4753 (2025). https://doi.org/10.1038/s41467-025-60022-x
 
